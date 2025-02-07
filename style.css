@@ -3,12 +3,12 @@
     padding: 0px;
     box-sizing: border-box;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: lightcoral;
 }
 
 .container {
     width: 100%;
     height: 100vh;
-   background-color: lightcoral;
     background-position: center;
     background-size: cover;
     position: relative;
